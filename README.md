@@ -44,10 +44,12 @@
 <p>
  <img align="right" width="350" src="https://j.gifs.com/MjmLWG.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy creating both in the digital and physical worlds <br/><br/>
- ❤️ &emsp; Passionate about innovative solutions that blend technology and art<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/damien-delgado/damien-delgado/issues)<br/><br>
- 🌀 &emsp; Time is a flat circle
+👨🏻‍💻 Robotics Engineer and Creative Technologist sharing my journey and innovations in tech and art<br/>
+ 🎓 Studied Mechanical Engineering, Computer Science, and Physics<br/>
+ 🎨 Creating projects that merge technology with creativity<br/>
+ 📧 Reach me anytime: drdelgado9@outlook.com<br/>
+ 💬 Ask me about anything [here](https://github.com/damien-delgado/damien-delgado/issues)<br/>
+ 🌀 Time is a flat circle
 </p>
 
 <br/>
