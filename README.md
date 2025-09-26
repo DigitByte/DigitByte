@@ -45,10 +45,10 @@
  <img align="right" width="350" src="https://j.gifs.com/MjmLWG.gif" alt="Coding gif" />
   
 👨🏻‍💻 Robotics Engineer and Creative Technologist sharing my journey and innovations in tech and art<br/>
- 🎓 Studied Mechanical Engineering, Computer Science, and Physics<br/>
+ 🎓 Studied Robotics and AI Software Engineering <br/>
  🎨 Creating projects that merge technology with creativity<br/>
  📧 Reach me anytime: drdelgado9@outlook.com<br/>
- 💬 Ask me about anything [here](https://github.com/damien-delgado/damien-delgado/issues)<br/>
+ 💬 Ask me about anything [here](https://github.com/digitbyte/digitbyte/issues)<br/>
  🌀 Time is a flat circle
 </p>
 
