@@ -72,7 +72,8 @@
 
 ## Top Open Source Projects
 
-[![Completely 3D Printed Gearboxes for Robotics](https://github-readme-stats.vercel.app/api/pin/?username=DigitByte&repo=Completely-3D-printed-Gearboxes-for-Robotics&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DigitByte/Completely-3D-printed-Gearboxes-for-Robotics)
+[![CatBot](https://github-readme-stats.vercel.app/api/pin/?username=DigitByte&repo=CatBot&border_color=0e75b6&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0e75b6)](https://github.com/DigitByte/CatBot)
+
 
 <p align="left">
   <a href="https://github.com/damien-delgado?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
