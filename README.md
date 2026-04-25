@@ -1,93 +1,66 @@
+<div align="center">
 
-<h2 align="center">
-  Welcome to my Chaos!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+# Damien Delgado
 
-<a href="https://komarev.com/ghpvc/?username=damien-delgado">
-  <img align="right" src="https://komarev.com/ghpvc/?username=damien-delgado&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+Robotics engineer building bio-inspired systems, modular actuators, and ROS2 tooling.
 
+Chicago, IL
 
+[![Website](https://img.shields.io/badge/Website-dhoskia.design-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dhoskia.design)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-damien--delgado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/damien-delgado)
+[![Email](https://img.shields.io/badge/Email-drdelgado9@outlook.com-374151?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drdelgado9@outlook.com)
 
-<h3 align="center">
-        <samp>&gt; Hey There! I'm
-                <b>Damien</b>
-        </samp>
-</h3>
+</div>
 
-<p align="center"> 
-  <samp>
-    <a 
-    <br>
-    「 Bridging the gap between technology and art as a <b>Robotics Engineer</b> and <b>Fine Artist</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
+## Overview
+
+I design robotics systems across mechanical architecture, sensing, controls, and software integration. My work emphasizes reusable hardware, documented workflows, and research-driven prototypes that stay practical for independent builders, smaller labs, and education environments.
+
+My current research direction is **CatBot**, a feline-inspired quadruped platform exploring digitigrade gait mechanics, spinal contribution, and low-cost locomotion hardware.
+
+## Current Focus
+
+- **CatBot**: bio-inspired quadruped research centered on feline locomotion and accessible hardware.
+- **Actuator ecosystem**: modular gearbox, actuator, sensor, and control repositories designed to be reused across robotics platforms.
+- **D.Hoskia**: engineering education, design, and curriculum work built around hands-on mechatronics practice.
+
+## Robotics Stack
+
+| Layer | Repository | Role |
+| --- | --- | --- |
+| Research | [CatBot](https://github.com/DigitByte/CatBot) | Feline-inspired quadruped research platform for low-cost locomotion experiments. |
+| Actuation | [Custom-brushless-robotic-actuator](https://github.com/DigitByte/Custom-brushless-robotic-actuator) | Core actuator and planetary gearbox library with ROS2 control integration. |
+| Assemblies | [Humanoid-Arm-Library](https://github.com/DigitByte/Humanoid-Arm-Library) | Reusable actuator, gearbox, and arm assembly library for robotics prototypes. |
+| Control | [PID-control-and-tuning-ROS2](https://github.com/DigitByte/PID-control-and-tuning-ROS2) | PID tuning workflows and ROS2 hardware-interface validation. |
+| Sensing | [IMU-ROS](https://github.com/DigitByte/IMU-ROS) | IMU publishing, calibration, and RViz visualization for orientation feedback. |
+| Sensing | [Read-encoder-Arduino-ROS-Jetson](https://github.com/DigitByte/Read-encoder-Arduino-ROS-Jetson) | Encoder acquisition pipeline from Arduino hardware to ROS2 on Jetson. |
+| Application | [Camera-Gimbal](https://github.com/DigitByte/Camera-Gimbal) | Multi-axis actuator testbed for stabilization and IMU-assisted control. |
+
+## Technical Focus
+
+`Python` `C++` `ROS2` `Arduino` `Raspberry Pi` `Linux` `Fusion 360` `PyBullet` `Git`
+
+## Featured Repositories
 
 <p align="center">
- <a href="https://linkedin.com/in/damien-delgado" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
- </a>
- <a href="https://github.com/DigitByte" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
- </a>
- <a href="https://www.instagram.com/dhoskia?igsh=MXZnNmNya2s5MWMyOA%3D%3D&utm_source=qr" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
- </a> 
+  <a href="https://github.com/DigitByte/CatBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DigitByte&repo=CatBot&theme=github_dark&hide_border=true" alt="CatBot" />
+  </a>
+  <a href="https://github.com/DigitByte/Custom-brushless-robotic-actuator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DigitByte&repo=Custom-brushless-robotic-actuator&theme=github_dark&hide_border=true" alt="Custom-brushless-robotic-actuator" />
+  </a>
 </p>
-<br />
-
- # About me
- 
-<p>
- <img align="right" width="350" src="https://j.gifs.com/MjmLWG.gif" alt="Coding gif" />
-  
-👨🏻‍💻 Robotics Engineer and Creative Technologist sharing my journey and innovations in tech and art<br/>
- 🎓 Studied Robotics and AI Software Engineering <br/>
- 🎨 Creating projects that merge technology with creativity<br/>
- 📧 Reach me anytime: drdelgado9@outlook.com<br/>
- 💬 Ask me about anything [here](https://github.com/digitbyte/digitbyte/issues)<br/>
- 🌀 Time is a flat circle
+<p align="center">
+  <a href="https://github.com/DigitByte/Humanoid-Arm-Library">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DigitByte&repo=Humanoid-Arm-Library&theme=github_dark&hide_border=true" alt="Humanoid-Arm-Library" />
+  </a>
+  <a href="https://github.com/DigitByte/IMU-ROS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DigitByte&repo=IMU-ROS&theme=github_dark&hide_border=true" alt="IMU-ROS" />
+  </a>
 </p>
 
-<br/>
-<br/>
-<br/>
+## Collaboration
 
-## Languages and Tools
+I am interested in robotics engineering roles, research collaboration in legged systems and actuation, and education partnerships that bring real mechatronics workflows into the classroom.
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Shapr3D](https://img.shields.io/badge/Shapr3D-0082C9?style=for-the-badge&logo=shapr3d&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF9900?style=for-the-badge&logo=autodesk&logoColor=white)
-
-<br/>
-
-## Top Open Source Projects
-
-[![CatBot](https://github-readme-stats.vercel.app/api/pin/?username=DigitByte&repo=CatBot&border_color=0e75b6&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=0e75b6)](https://github.com/DigitByte/CatBot)
-
-
-<p align="left">
-  <a href="https://github.com/damien-delgado?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-
-    
-<br/>
-
-
-
-
-
+If you are working on locomotion, controls, embedded robotics, or hardware-focused curriculum design, feel free to reach out.
