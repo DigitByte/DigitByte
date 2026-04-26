@@ -40,24 +40,7 @@ My current research direction is **CatBot**, a feline-inspired quadruped platfor
 
 `Python` `C++` `ROS2` `Arduino` `Raspberry Pi` `Linux` `Fusion 360` `PyBullet` `Git`
 
-## Featured Repositories
 
-<p align="center">
-  <a href="https://github.com/DigitByte/CatBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DigitByte&repo=CatBot&theme=github_dark&hide_border=true" alt="CatBot" />
-  </a>
-  <a href="https://github.com/DigitByte/Custom-brushless-robotic-actuator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DigitByte&repo=Custom-brushless-robotic-actuator&theme=github_dark&hide_border=true" alt="Custom-brushless-robotic-actuator" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/DigitByte/Humanoid-Arm-Library">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DigitByte&repo=Humanoid-Arm-Library&theme=github_dark&hide_border=true" alt="Humanoid-Arm-Library" />
-  </a>
-  <a href="https://github.com/DigitByte/IMU-ROS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DigitByte&repo=IMU-ROS&theme=github_dark&hide_border=true" alt="IMU-ROS" />
-  </a>
-</p>
 
 ## Collaboration
 
