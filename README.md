@@ -16,7 +16,7 @@ Chicago, IL
 
 I design robotics systems across mechanical architecture, sensing, controls, and software integration. My work emphasizes reusable hardware, documented workflows, and research-driven prototypes that stay practical for independent builders, smaller labs, and education environments.
 
-My current research direction is **CatBot**, a feline-inspired quadruped platform exploring digitigrade gait mechanics, spinal contribution, and low-cost locomotion hardware.
+My current research direction is **CatBot**, a feline-inspired quadruped platform for studying bio-inspired locomotion, with a focus on digitigrade gait dynamics, spinal actuation effects, and hardware-constrained robotic mobility.
 
 ## Current Focus
 
